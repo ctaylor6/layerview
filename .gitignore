@@ -1,0 +1,16 @@
+.DS_Store
+*.asv
+*.m~
+*.mex*
+*.slxc
+slprj/
+outputs/
+data/raw/
+*.xyz
+*.zip
+*.mlx
+.env
+.env.*
+!.env.example
+__pycache__/
+.vscode/

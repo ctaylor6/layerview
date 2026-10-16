@@ -1,0 +1,32 @@
+[
+  {
+    "source": "filteredPC1.ply",
+    "published": "data/processed/filtered_scan.ply",
+    "bytes": 4614220,
+    "sha256": "b8f645670dfae8aefa32d90fd17c6303e2cbaa51ffe8da91db5884f3d0450ce5"
+  },
+  {
+    "source": "A_coin_w6_test.STL",
+    "published": "data/cad/A_coin_w6_test.STL",
+    "bytes": 35384,
+    "sha256": "7b2a8316bab6418f4615d81d20b22cd6923ab00473e5c89284fd823b6d66a03d"
+  },
+  {
+    "source": "noA_coin_w6_test.STL",
+    "published": "data/cad/noA_coin_w6_test.STL",
+    "bytes": 12484,
+    "sha256": "63db97bbef10bd7fcedf151dfd0c4d83b1558527a934219887b8d42f89afa3a6"
+  },
+  {
+    "source": "filled_A_coin_w8_test.STL",
+    "published": "data/cad/filled_A_coin_w8_test.STL",
+    "bytes": 33584,
+    "sha256": "f6b1ab871171803f51f7d464e99f338f9196eede3f2816713cf52cc07c504397"
+  },
+  {
+    "source": "checkerboardwarp.png",
+    "published": "data/calibration/checkerboardwarp.png",
+    "bytes": 10846821,
+    "sha256": "13ac98839cf5b182688acdf16c19cd34266218d3b87e2fe43af2a54e35880726"
+  }
+]
